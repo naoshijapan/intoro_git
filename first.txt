@@ -6,3 +6,4 @@ git add first.txt
 ２行目：
 ３行目：変更した理由
 git rm
+git status

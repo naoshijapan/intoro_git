@@ -7,3 +7,5 @@ git add first.txt
 ３行目：変更した理由
 git rm
 git status
+git log --oneline
+git log -p index.html

@@ -1,2 +1,7 @@
 Gitの練習を開始します。
 基本的なワークフローを学びます。
+git remote add origin git@github.com:naoshijapan/intoro_git.git
+git add first.txt
+1行目：変更内容の要約
+２行目：
+３行目：変更した理由
